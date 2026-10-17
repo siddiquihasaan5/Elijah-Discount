@@ -133,3 +133,5 @@ npx prisma db seed
 | `TEXAS15` | 15% Off | $100.00 | Exclusive discount for orders $100+ |
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/466781aa-faaf-42d2-8e84-1c1964714da6/deploy-status)](https://app.netlify.com/projects/elijahdiscount/deploys)
+
+/deploy-status?branch=[![Netlify Status](https://api.netlify.com/api/v1/badges/466781aa-faaf-42d2-8e84-1c1964714da6/deploy-status)](https://app.netlify.com/projects/elijahdiscount/deploys)

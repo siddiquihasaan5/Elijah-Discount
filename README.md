@@ -131,3 +131,5 @@ npx prisma db seed
 | `FREESHIP` | Free Shipping | $50.00 | Free standard shipping |
 | `CLEARANCE20` | 20% Off | $60.00 | Extra 20% off clearance items |
 | `TEXAS15` | 15% Off | $100.00 | Exclusive discount for orders $100+ |
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/466781aa-faaf-42d2-8e84-1c1964714da6/deploy-status)](https://app.netlify.com/projects/elijahdiscount/deploys)

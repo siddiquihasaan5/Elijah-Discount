@@ -122,6 +122,8 @@ npx prisma db seed
 
 ## 6. Seed Coupons for Client Testing
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/466781aa-faaf-42d2-8e84-1c1964714da6/deploy-status)](https://app.netlify.com/projects/elijahdiscount/deploys)
+
 | Promo Code | Discount | Minimum Spend | Description |
 | :--- | :--- | :--- | :--- |
 | `WELCOME10` | 10% Off | $0.00 | First purchase discount |

@@ -1,0 +1,6 @@
+{
+  "name": "Elijah Discount House - Men's Jeans, Sweaters & Lightweight Jackets",
+  "description": "Style for Less. Always. Curated online clothing store specializing in men's jeans, sweaters, and lightweight jackets. Call 619-807-4468 or email mrmuhammadseniors@yahoo.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
